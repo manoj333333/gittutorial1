@@ -1,0 +1,1 @@
+this file is like a practice that craetes a file from vsc then push to github
